@@ -1,0 +1,15 @@
+# Ignorar el archivo .env
+.env
+
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar la carpeta de compilación (dist)
+dist/
+
+# Ignorar archivos de configuración de TypeORM (si los tienes)
+# ormconfig.json
+
+
+# Ignorar archivos de registro (logs)
+# *.log
